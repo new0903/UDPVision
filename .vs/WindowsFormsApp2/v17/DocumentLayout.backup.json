@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS2010Test\\\u0441\u043B\u0435\u0436\u043A\u0430 \u002B yolo\\Prokopov YoloProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A37A06CA-CB05-4261-92A8-9AB8943B9F04}|WinFormsProducer\\WinFormsProducer.csproj|d:\\vs2010test\\\u0441\u043B\u0435\u0436\u043A\u0430 \u002B yolo\\prokopov yoloproject\\winformsproducer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A37A06CA-CB05-4261-92A8-9AB8943B9F04}|WinFormsProducer\\WinFormsProducer.csproj|solutionrelative:winformsproducer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FF4681-E2CD-F455-FFA4-F305B973E00F}|MessageProtocolLibrary\\MessageProtocolLibrary.csproj|d:\\vs2010test\\\u0441\u043B\u0435\u0436\u043A\u0430 \u002B yolo\\prokopov yoloproject\\messageprotocollibrary\\registerfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FF4681-E2CD-F455-FFA4-F305B973E00F}|MessageProtocolLibrary\\MessageProtocolLibrary.csproj|solutionrelative:messageprotocollibrary\\registerfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FF4681-E2CD-F455-FFA4-F305B973E00F}|MessageProtocolLibrary\\MessageProtocolLibrary.csproj|d:\\vs2010test\\\u0441\u043B\u0435\u0436\u043A\u0430 \u002B yolo\\prokopov yoloproject\\messageprotocollibrary\\messageprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FF4681-E2CD-F455-FFA4-F305B973E00F}|MessageProtocolLibrary\\MessageProtocolLibrary.csproj|solutionrelative:messageprotocollibrary\\messageprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A166C7-EAD1-4067-A68E-C7E31F718FEF}|WinFormsConsumer\\WinFormsConsumer.csproj|d:\\vs2010test\\\u0441\u043B\u0435\u0436\u043A\u0430 \u002B yolo\\prokopov yoloproject\\winformsconsumer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E0A166C7-EAD1-4067-A68E-C7E31F718FEF}|WinFormsConsumer\\WinFormsConsumer.csproj|solutionrelative:winformsconsumer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS2010Test\\\u0441\u043B\u0435\u0436\u043A\u0430 \u002B yolo\\Prokopov YoloProject\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A37A06CA-CB05-4261-92A8-9AB8943B9F04}|WinFormsProducer\\WinFormsProducer.csproj|d:\\vs2010test\\\u0441\u043B\u0435\u0436\u043A\u0430 \u002B yolo\\prokopov yoloproject\\winformsproducer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A37A06CA-CB05-4261-92A8-9AB8943B9F04}|WinFormsProducer\\WinFormsProducer.csproj|solutionrelative:winformsproducer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A166C7-EAD1-4067-A68E-C7E31F718FEF}|WinFormsConsumer\\WinFormsConsumer.csproj|d:\\vs2010test\\\u0441\u043B\u0435\u0436\u043A\u0430 \u002B yolo\\prokopov yoloproject\\winformsconsumer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A166C7-EAD1-4067-A68E-C7E31F718FEF}|WinFormsConsumer\\WinFormsConsumer.csproj|solutionrelative:winformsconsumer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterFiles.cs",
+              "DocumentMoniker": "D:\\VS2010Test\\\u0441\u043B\u0435\u0436\u043A\u0430 \u002B yolo\\Prokopov YoloProject\\MessageProtocolLibrary\\RegisterFiles.cs",
+              "RelativeDocumentMoniker": "MessageProtocolLibrary\\RegisterFiles.cs",
+              "ToolTip": "D:\\VS2010Test\\\u0441\u043B\u0435\u0436\u043A\u0430 \u002B yolo\\Prokopov YoloProject\\MessageProtocolLibrary\\RegisterFiles.cs",
+              "RelativeToolTip": "MessageProtocolLibrary\\RegisterFiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T11:08:48.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageProtocol.cs",
+              "DocumentMoniker": "D:\\VS2010Test\\\u0441\u043B\u0435\u0436\u043A\u0430 \u002B yolo\\Prokopov YoloProject\\MessageProtocolLibrary\\MessageProtocol.cs",
+              "RelativeDocumentMoniker": "MessageProtocolLibrary\\MessageProtocol.cs",
+              "ToolTip": "D:\\VS2010Test\\\u0441\u043B\u0435\u0436\u043A\u0430 \u002B yolo\\Prokopov YoloProject\\MessageProtocolLibrary\\MessageProtocol.cs",
+              "RelativeToolTip": "MessageProtocolLibrary\\MessageProtocol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T11:08:46.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\VS2010Test\\\u0441\u043B\u0435\u0436\u043A\u0430 \u002B yolo\\Prokopov YoloProject\\WinFormsConsumer\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsConsumer\\Form1.cs",
+              "ToolTip": "D:\\VS2010Test\\\u0441\u043B\u0435\u0436\u043A\u0430 \u002B yolo\\Prokopov YoloProject\\WinFormsConsumer\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WinFormsConsumer\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T11:08:21.364Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\VS2010Test\\\u0441\u043B\u0435\u0436\u043A\u0430 \u002B yolo\\Prokopov YoloProject\\WinFormsProducer\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsProducer\\Form1.cs",
+              "ToolTip": "D:\\VS2010Test\\\u0441\u043B\u0435\u0436\u043A\u0430 \u002B yolo\\Prokopov YoloProject\\WinFormsProducer\\Form1.cs*",
+              "RelativeToolTip": "WinFormsProducer\\Form1.cs*",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAhwPkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T11:03:38.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\VS2010Test\\\u0441\u043B\u0435\u0436\u043A\u0430 \u002B yolo\\Prokopov YoloProject\\WinFormsProducer\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsProducer\\Form1.cs",
+              "ToolTip": "D:\\VS2010Test\\\u0441\u043B\u0435\u0436\u043A\u0430 \u002B yolo\\Prokopov YoloProject\\WinFormsProducer\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "RelativeToolTip": "WinFormsProducer\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T11:03:37.662Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\VS2010Test\\\u0441\u043B\u0435\u0436\u043A\u0430 \u002B yolo\\Prokopov YoloProject\\WinFormsConsumer\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsConsumer\\Form1.cs",
+              "ToolTip": "D:\\VS2010Test\\\u0441\u043B\u0435\u0436\u043A\u0430 \u002B yolo\\Prokopov YoloProject\\WinFormsConsumer\\Form1.cs",
+              "RelativeToolTip": "WinFormsConsumer\\Form1.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAIMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T10:57:16.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\VS2010Test\\\u0441\u043B\u0435\u0436\u043A\u0430 \u002B yolo\\Prokopov YoloProject\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "D:\\VS2010Test\\\u0441\u043B\u0435\u0436\u043A\u0430 \u002B yolo\\Prokopov YoloProject\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAADDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-09-20T10:40:31.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

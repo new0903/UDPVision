@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "WinFormsProducer\\WinFormsProducer.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "WinFormsConsumer\\WinFormsConsumer.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
