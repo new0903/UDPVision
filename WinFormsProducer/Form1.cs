@@ -58,13 +58,13 @@ namespace WinFormsProducer
            // string[] keys = new string[2];
            // keys[0] = $"KeyBase64: {keyBase64}";
            // keys[1] = $"IVBase64: {keyBase64}";
-           //await File.WriteAllLinesAsync("RegisKeys.txt", keys);
+           //await File.WriteAllLinesAsync("Keys.txt", keys);
 
 
             string[] keys = new string[2];
             keys[0] = $"KeyBase64: {keyBase64}";
             keys[1] = $"IVBase64: {IVBase64}";
-             File.WriteAllLines("RegisKeys.txt", keys);
+             File.WriteAllLines("Keys.txt", keys);
         }
 
         public void InitializeKey()
@@ -95,12 +95,12 @@ namespace WinFormsProducer
                     }
 
                 }
-                //гененрируем ключ если нету
+                //ГЈГҐГ­ГҐГ­Г°ГЁГ°ГіГҐГ¬ ГЄГ«ГѕГ· ГҐГ±Г«ГЁ Г­ГҐГІГі
 
             }
             catch (Exception ex)
             {
-                MessageBox.Show($"InitializeKey Возникли ошибки при получении ключей \r\n {ex.Message}");
+                MessageBox.Show($"InitializeKey Г‚Г®Г§Г­ГЁГЄГ«ГЁ Г®ГёГЁГЎГЄГЁ ГЇГ°ГЁ ГЇГ®Г«ГіГ·ГҐГ­ГЁГЁ ГЄГ«ГѕГ·ГҐГ© \r\n {ex.Message}");
             }
 
             GenerateKey();
@@ -126,7 +126,7 @@ namespace WinFormsProducer
             }
         }
 
-        //для камеры
+        //Г¤Г«Гї ГЄГ Г¬ГҐГ°Г»
         private void StartStreamVideoDevice()
         {
             if (videoSource == null)
@@ -148,17 +148,17 @@ namespace WinFormsProducer
                 }
                 else
                 {
-                    MessageBox.Show("Камер на устройстве не обнаружено");
+                    MessageBox.Show("ГЉГ Г¬ГҐГ° Г­Г  ГіГ±ГІГ°Г®Г©Г±ГІГўГҐ Г­ГҐ Г®ГЎГ­Г Г°ГіГ¦ГҐГ­Г®");
                     stopStream();
                 }
             }
             else
             {
-                MessageBox.Show("StartStreamVideoDevice Для начала остановите трансляцию");
+                MessageBox.Show("StartStreamVideoDevice Г„Г«Гї Г­Г Г·Г Г«Г  Г®Г±ГІГ Г­Г®ГўГЁГІГҐ ГІГ°Г Г­Г±Г«ГїГ¶ГЁГѕ");
             }
 
         }
-        //для экрана
+        //Г¤Г«Гї ГЅГЄГ°Г Г­Г 
         private void StartStreamScreenDevice()
         {
             try
@@ -178,14 +178,14 @@ namespace WinFormsProducer
                 }
                 else
                 {
-                    MessageBox.Show("Для начала остановите трансляцию");
+                    MessageBox.Show("Г„Г«Гї Г­Г Г·Г Г«Г  Г®Г±ГІГ Г­Г®ГўГЁГІГҐ ГІГ°Г Г­Г±Г«ГїГ¶ГЁГѕ");
                 }
 
             }
             catch (Exception ex)
             {
 
-                MessageBox.Show($"StartStreamScreenDevice Произошла ошибка: \r\n {ex.Message}");
+                MessageBox.Show($"StartStreamScreenDevice ГЏГ°Г®ГЁГ§Г®ГёГ«Г  Г®ГёГЁГЎГЄГ : \r\n {ex.Message}");
             }
             
         }
@@ -278,7 +278,7 @@ namespace WinFormsProducer
                             else
                             {
 
-                                MessageBox.Show($"VideoSource_NewFrame Возникли не предвиденные ошибки ");
+                                MessageBox.Show($"VideoSource_NewFrame Г‚Г®Г§Г­ГЁГЄГ«ГЁ Г­ГҐ ГЇГ°ГҐГ¤ГўГЁГ¤ГҐГ­Г­Г»ГҐ Г®ГёГЁГЎГЄГЁ ");
                             }
                                 
                         }
@@ -293,7 +293,7 @@ namespace WinFormsProducer
             }
             catch (Exception ex)
             {
-                MessageBox.Show($"VideoSource_NewFrame Возникли не предвиденные ошибки {ex.Message}");
+                MessageBox.Show($"VideoSource_NewFrame Г‚Г®Г§Г­ГЁГЄГ«ГЁ Г­ГҐ ГЇГ°ГҐГ¤ГўГЁГ¤ГҐГ­Г­Г»ГҐ Г®ГёГЁГЎГЄГЁ {ex.Message}");
             }
         }
 
